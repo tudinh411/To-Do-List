@@ -1,1 +1,1 @@
-A To-do List application which is developed with Node.js and Express
+A To-do List application developed with Node.js and Express
